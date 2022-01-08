@@ -7,7 +7,7 @@
 #include "types.h"
 
 #define MAX_MEM_CAP_8  256
-#define MAX_MEM_CAP_16 65356
+#define MAX_MEM_CAP_16 65536
 
 #define BIT8_ADDR_BUS 8
 #define BIT16_ADDR_BUS 16
